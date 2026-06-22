@@ -22,7 +22,7 @@ I work at the intersection of digital strategy, workflow design, platform operat
 - Structured market research and account review tools.
 - Digital transformation operating models.
 - Executive and team enablement materials.
-- Public-safe proof pages, demos, and documentation.
+- Public-safe proof pages and documentation.
 
 ## Operating Style
 

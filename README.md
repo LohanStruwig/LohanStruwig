@@ -2,19 +2,19 @@
 
 Digital transformation and product operations leader building practical digital business models, AI-assisted workflows, and structured research systems.
 
-I work at the intersection of digital strategy, workflow design, platform operations, and hands-on product delivery. My current focus is VentureLayer Digital, an independent practice for turning messy business context into useful digital systems, workflow tools, and public-safe proof work.
+I work at the intersection of digital strategy, workflow design, platform operations, and hands-on product delivery. My current focus is VentureLayer Digital, an independent practice for turning messy business context into useful digital systems, workflow tools, and public-safe proof surfaces.
 
 ## Current Focus
 
-- VentureLayer Digital: strategy, AI-assisted workflow design, and reusable digital operating systems.
+- VentureLayer Digital: strategy, AI-assisted workflow design, and practical digital operating systems.
 - CNC Intel Hub: structured market and account research for CNC/VMC industry review.
-- Career OS: curated career and portfolio operating system.
+- Career OS: curated public portfolio and proof system.
 - VentureLayer Labs: proof patterns for productized digital systems.
 
 ## Selected Public Work
 
 - [VentureLayer Digital](https://venturelayerdigital.com)
-- [lohan-career-os](https://github.com/LohanStruwig/lohan-career-os)
+- [lohan-career-os](https://github.com/LohanStruwig/lohan-career-os): public-safe portfolio system, case-study map, and capability proof layer.
 
 ## What I Build
 
@@ -26,7 +26,7 @@ I work at the intersection of digital strategy, workflow design, platform operat
 
 ## Operating Style
 
-I like clear systems, restrained interfaces, useful documentation, and practical delivery loops. The work is strongest when strategy, product judgment, and implementation discipline stay close together.
+I like clear systems, restrained interfaces, useful documentation, and practical delivery loops. The work is strongest when strategy, product judgment, implementation discipline, and governance stay close together.
 
 ## Links
 

@@ -7,9 +7,9 @@ I work at the intersection of digital strategy, workflow design, platform operat
 ## Current Focus
 
 - VentureLayer Digital: strategy, AI-assisted workflow design, and practical digital operating systems.
-- CNC Intel Hub: structured market and account research for CNC/VMC industry review.
-- Career OS: curated public portfolio and proof system.
-- VentureLayer Labs: proof patterns for productized digital systems.
+- CNC Intel Hub: public-safe proof around structured industrial market research.
+- Career OS: curated public portfolio and proof layer.
+- VentureLayer Labs: selected proof patterns for productized digital systems.
 
 ## Selected Public Work
 
@@ -19,7 +19,7 @@ I work at the intersection of digital strategy, workflow design, platform operat
 ## What I Build
 
 - AI-assisted workflow and operations systems.
-- Structured market research and account review tools.
+- Structured market research and review workflows.
 - Digital transformation operating models.
 - Executive and team enablement materials.
 - Public-safe proof pages and documentation.
